@@ -37,7 +37,7 @@ const FeaturesData: FeaturesType[] = [
     links:'www.sushig.com.tr'
   },
   {
-    imgSrc: '/images/Features/4.jpg',
+    imgSrc: '/images/Features/4.png',
     heading: 'SUSHE & SUSHE RESTAURANT',
     date:'October 2018 - January 2020',
     loc: 'Yenişehir Mh. M. Akyol Sk. MVK Square No. 13/239 Pendik Istanbul Turkey',
