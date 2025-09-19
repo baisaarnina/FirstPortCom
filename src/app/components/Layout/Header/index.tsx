@@ -208,7 +208,7 @@ const Header: React.FC = () => {
               <MobileHeaderLink key={index} item={item} />
             ))}
             <div className='mt-4 flex flex-col space-y-4 w-full'>
-              <button
+              {/* <button
                 className='bg-primary text-white px-4 py-2 rounded-lg border  border-primary hover:text-primary hover:bg-transparent hover:cursor-pointer transition duration-300 ease-in-out'
                 onClick={() => {
                   setIsSignInOpen(true)
@@ -223,7 +223,7 @@ const Header: React.FC = () => {
                   setNavbarOpen(false)
                 }}>
                 Sign Up
-              </button>
+              </button> */}
             </div>
           </nav>
         </div>

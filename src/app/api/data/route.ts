@@ -19,7 +19,7 @@ const FeaturesData: FeaturesType[] = [
     imgSrc: '/images/Features/1.jpg',
     heading: 'RIXOS MARINA ABU DHABI',
     date: 'March 2024 - Present ',
-    loc: 'Marina Mall, Rind Rd - Al Kasir - Al Marina - Abu Dhabi, UAE',
+    loc: 'Marina Mall, Ring Rd - Al Kasir - Al Marina - Abu Dhabi, UAE',
     links: 'www.rixos.com'
   },
   {
@@ -40,7 +40,7 @@ const FeaturesData: FeaturesType[] = [
     imgSrc: '/images/Features/4.jpg',
     heading: 'SUSHE & SUSHE RESTAURANT',
     date:'October 2018 - January 2020',
-    loc: 'Marina Mall, Rind Rd - Al Kasir - Al Marina - Abu Dhabi, UAEYenişehir Mh. M. Akyol Sk. MVK Square No. 13/239 Pendik Istanbul Turkey',
+    loc: 'Yenişehir Mh. M. Akyol Sk. MVK Square No. 13/239 Pendik Istanbul Turkey',
     links:'www.sushesushe.com'
   },
   {
