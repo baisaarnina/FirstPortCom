@@ -85,7 +85,7 @@ const Footer: FC = () => {
                   className='text-primary text-3xl lg:text-2xl inline-block me-2'
                 />
                 <p className='text-black text-base'>
-                  Al Zahiya Streer, Abudhabi, UAE
+                  Al Zahiya Street, Abu Dhabi, UAE
                 </p>
               </div>
               <Link href='tel:+971 56 201 7351'>

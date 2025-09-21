@@ -73,6 +73,35 @@ const ExpertChiefData: ExpertChiefType[] = [
 
 const GalleryImagesData: GalleryImagesType[] = [
   {
+    src: '/images/Gallery/14.jpg',
+  },
+  {
+    src: '/images/Gallery/15.jpg',
+
+  },
+  {
+    src: '/images/Gallery/16.jpg',
+  },
+   {
+    src: '/images/Gallery/17.jpg',
+  },
+  {
+    src: '/images/Gallery/18.jpg',
+  },
+  {
+    src: '/images/Gallery/19.jpg',
+    
+  },
+  {
+    src: '/images/Gallery/8.jpg',
+  },
+  {
+    src: '/images/Gallery/9.jpg',
+  },
+  {
+    src: '/images/Gallery/10.jpg',
+  },
+  {
     src: '/images/Gallery/1.jpg',
   },
   {
@@ -96,15 +125,6 @@ const GalleryImagesData: GalleryImagesType[] = [
 
   },
   {
-    src: '/images/Gallery/8.jpg',
-  },
-   {
-    src: '/images/Gallery/9.jpg',
-  },
-  {
-    src: '/images/Gallery/10.jpg',
-  },
-  {
     src: '/images/Gallery/11.jpg',
 
   },
@@ -113,26 +133,6 @@ const GalleryImagesData: GalleryImagesType[] = [
   },
    {
     src: '/images/Gallery/13.jpg',
-  },
-  {
-    src: '/images/Gallery/14.jpg',
-  },
-  {
-    src: '/images/Gallery/15.jpg',
-
-  },
-  {
-    src: '/images/Gallery/16.jpg',
-  },
-   {
-    src: '/images/Gallery/17.jpg',
-  },
-  {
-    src: '/images/Gallery/18.jpg',
-  },
-  {
-    src: '/images/Gallery/19.jpg',
-
   },
    {
     src: '/images/Gallery/26.jpg',
@@ -182,6 +182,74 @@ const GalleryImagesData: GalleryImagesType[] = [
   },
   {
     src: '/images/Gallery/36.jpg',
+  },
+  {
+    src: '/images/Gallery/38.jpg',
+  },
+   {
+    src: '/images/Gallery/39.jpg',
+  },
+  {
+    src: '/images/Gallery/40.jpg',
+  },
+  {
+    src: '/images/Gallery/41.jpg',
+
+  },
+  {
+    src: '/images/Gallery/51.jpg',
+  },
+   {
+     src: '/images/Gallery/49.jpg',
+ 
+   },
+   {
+     src: '/images/Gallery/59.jpg',
+   },
+   {
+     src: '/images/Gallery/48.jpg',
+   },
+   {
+     src: '/images/Gallery/60.jpg',
+ 
+   },
+   {
+     src: '/images/Gallery/61.jpg',
+   },
+   {
+     src: '/images/Gallery/62.jpg',
+   },
+    {
+     src: '/images/Gallery/63.jpg',
+   },
+   {
+     src: '/images/Gallery/64.jpg',
+   },
+   {
+     src: '/images/Gallery/65.jpg',
+   },
+  {
+    src: '/images/Gallery/52.jpg',
+
+  },
+  {
+    src: '/images/Gallery/43.jpg',
+  },
+  {
+   src: '/images/Gallery/50.jpg',
+ },
+  {
+    src: '/images/Gallery/44.jpg',
+
+  },
+  {
+    src: '/images/Gallery/45.jpg',
+  },
+  {
+    src: '/images/Gallery/46.jpg',
+  },
+   {
+    src: '/images/Gallery/47.jpg',
   },
   
 ]
